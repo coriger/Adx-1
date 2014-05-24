@@ -1,0 +1,47 @@
+21/05 15:07:36 INFO file.FileDatabase|infodb: database opened as /home/hasnain/documents/Courses/cs313/tac-adx/AdX/adx-server/infodb
+21/05 15:07:36 INFO common.BlockingViewerServer|viewer server started at *:4042
+21/05 15:07:38 INFO file.FileDatabase|infodb: added table localhost_state
+21/05 15:07:38 INFO file.FileDatabase|infodb: added table localhost_comingparticipants
+21/05 15:07:38 INFO file.FileDatabase|infodb: added table localhost_comingsimulations
+21/05 15:07:38 INFO file.FileDatabase|infodb: added table localhost_competitionparts
+21/05 15:07:38 INFO file.FileDatabase|infodb: added table localhost_competitions
+21/05 15:07:38 INFO file.FileDatabase|infodb: added table localhost_competitionresults
+21/05 19:07:38 INFO sim.Admin|adding manager for simulation type tac13adx
+21/05 19:07:38 INFO server.TACTGateway|TACT Server started at *:6502
+21/05 19:08:09 INFO server.TACTChannel|user sample logged in as sample@tact-1 with version 0.9.6 from 127.0.0.1
+21/05 19:08:09 INFO sim.Admin|created simulation 1
+21/05 19:08:32 INFO common.SimServer|CHAT: 1400699312703,localhost,admin,hello world
+21/05 19:09:00 FINE sim.Admin|Entering log for simulation 1
+************************************************************
+* Entering log for simulation 1
+************************************************************
+
+
+21/05 19:19:00 INFO is.TACAAResultManager|generating results for simulation 1 to public_html/localhost/history/1/index.html
+21/05 19:20:00 FINE sim.Admin|Entering log for simulation 2
+************************************************************
+* Entering log for simulation 2
+************************************************************
+
+
+21/05 19:30:00 INFO is.TACAAResultManager|generating results for simulation 2 to public_html/localhost/history/2/index.html
+21/05 19:31:00 FINE sim.Admin|Entering log for simulation 3
+************************************************************
+* Entering log for simulation 3
+************************************************************
+
+
+21/05 19:41:00 INFO is.TACAAResultManager|generating results for simulation 3 to public_html/localhost/history/3/index.html
+21/05 19:42:00 FINE sim.Admin|Entering log for simulation 4
+************************************************************
+* Entering log for simulation 4
+************************************************************
+
+
+21/05 19:52:00 INFO is.TACAAResultManager|generating results for simulation 4 to public_html/localhost/history/4/index.html
+21/05 19:53:00 FINE sim.Admin|Entering log for simulation 5
+************************************************************
+* Entering log for simulation 5
+************************************************************
+
+
